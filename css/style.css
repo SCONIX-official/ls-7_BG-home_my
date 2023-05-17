@@ -84,7 +84,7 @@ body {
 
 .wrapper {
   background: -webkit-gradient(linear, left bottom, left top, color-stop(20%, rgba(36, 0, 27, 0.7338585092)), color-stop(78%, rgba(36, 0, 27, 0.1344187333)), color-stop(120%, rgba(255, 196, 0, 0.84))), url("/img/fon.jpeg") center/cover no-repeat fixed;
-  background: linear-gradient(0deg, rgba(36, 0, 27, 0.7338585092) 20%, rgba(36, 0, 27, 0.1344187333) 78%, rgba(255, 196, 0, 0.84) 120%), url("../img/fon.jpeg") center/cover no-repeat fixed;
+  background: linear-gradient(0deg, rgba(36, 0, 27, 0.7338585092) 20%, rgba(36, 0, 27, 0.1344187333) 78%, rgba(255, 196, 0, 0.84) 120%), url("img/fon.jpeg") center/cover no-repeat fixed;
   overflow: hidden;
   min-height: 100%;
 }
@@ -117,14 +117,14 @@ body {
   border-radius: 23px;
   margin: 0px auto 50px auto;
   max-width: 1030px;
-  background: url("/img/ilusion.jpg") 50%/cover no-repeat fixed;
+  background: url("img/ilusion.jpg") 50%/cover no-repeat fixed;
   padding: 20px;
 }
 
 .static-bg {
   border-radius: 23px;
   margin: 0px auto 50px auto;
-  background: url("/img/ilusion.jpg") 25% 10%/cover no-repeat;
+  background: url("../img/ilusion.jpg") 25% 10%/cover no-repeat;
   max-width: 1000px;
   padding: 25px;
 }
