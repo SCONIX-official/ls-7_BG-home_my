@@ -124,7 +124,7 @@ body {
 .static-bg {
   border-radius: 23px;
   margin: 0px auto 50px auto;
-  background: url("../img/ilusion.jpg") 25% 10%/cover no-repeat;
+  background: url("./img/ilusion.jpg") 25% 10%/cover no-repeat;
   max-width: 1000px;
   padding: 25px;
 }
